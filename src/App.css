@@ -1,0 +1,124 @@
+.App {
+  text-align: center;
+  background: black;
+}
+
+.App-logo {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  height: 80px;
+}
+
+.App-sub-title{
+  font-family: 'Squada One', cursive;
+  font-color: white;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  font-family: monospace;
+  
+}
+
+.App-header {
+  background-color: black;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-family: 'Squada One', cursive;
+  font-size: 4.5em;
+  font-color: white;
+  font-family: monospace;
+}
+
+.App-intro {
+  font-size: large;
+  color: white;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+@-moz-keyframes loading {
+  0% {
+    left: 0;
+  }
+  50% {
+    left: 8.33333em;
+  }
+  100% {
+    left: 0;
+  }
+}
+@-webkit-keyframes loading {
+  0% {
+    left: 0;
+  }
+  50% {
+    left: 8.33333em;
+  }
+  100% {
+    left: 0;
+  }
+}
+@keyframes loading {
+  0% {
+    left: 0;
+  }
+  50% {
+    left: 8.33333em;
+  }
+  100% {
+    left: 0;
+  }
+}
+.st-loader {
+  width: 10em;
+  height: 2.5em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -1.25em 0 0 -5em;
+  box-sizing: border-box;
+}
+
+.st-loader:before,
+.st-loader:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 1.25em;
+  box-sizing: border-box;
+  border: 0.25em solid #4c4a4e;
+}
+
+.st-loader:before {
+  left: -0.76923em;
+  border-right: 0;
+}
+
+.st-loader:after {
+  right: -0.76923em;
+  border-left: 0;
+}
+
+.st-loader .equal {
+  display: block;
+  position: absolute;
+  top: 50%;
+  margin-top: -0.5em;
+  left: 4.16667em;
+  height: 1em;
+  width: 1.66667em;
+  border: 0.25em solid #4c4a4e;
+  box-sizing: border-box;
+  border-width: 0.25em 0;
+  -moz-animation: loading 1.5s infinite ease-in-out;
+  -webkit-animation: loading 1.5s infinite ease-in-out;
+  animation: loading 1.5s infinite ease-in-out;
+}
