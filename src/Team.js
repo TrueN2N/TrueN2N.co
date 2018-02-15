@@ -25,7 +25,7 @@ class Team extends Component {
         We believe in mapping personal fitness function on to collective fitness function. <br>
         Sole collective contract: <br>
         Do what you believe it takes to optimize the aggregate fitness function of the collective.
-        Sub-process: optimization of personal fitness function improvement in relation x domain.
+        Sub-process: optimize your personal fitness function improvement in relation x domain or y impact.
       </p>
       </div>
     );
