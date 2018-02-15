@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import AceEditor from 'react-ace';
 import brace from 'brace';
 
+import Center from 'react-center';
+
+
 import 'brace/mode/javascript';
 import 'brace/theme/monokai';
 
@@ -27,6 +30,7 @@ class IDE extends Component {
       return null; // render null when app is not ready
     }
     return (
+      <Center>
        <AceEditor style={{display: 'flex', justifyContent: 'center'}}
   mode="javascript"
   theme="monokai"
@@ -37,37 +41,27 @@ class IDE extends Component {
   showPrintMargin={true}
   showGutter={true}
   highlightActiveLine={true}
+  height={'400px'}
   value={
 
     `
 pragma solidity 0.4.19;
 
 import "./Data.sol";
-import "./Network.sol";
-
-//
-//
-//
+import "./Connectivity.sol";
 
 contract Truth {
   
-  string const thesis = "
-    
-  ";
+  string const thesis = \`The rate of building within 
+  nascent whitespace increasingly lags the rate of 
+  whitespace creation.\`;
   
   function modelCurrentState(_x);
-
   function modelEndState(_y);
-
   function findDeviance(_currentState, _endState);
-  
   function evaluate(_thesis);
-
-  function act(N:N)
-
+  function act(_N2N);
 }
-
-
 `
 
 }
@@ -78,6 +72,7 @@ contract Truth {
   showLineNumbers: true,
   tabSize: 2,
   }}/>
+  </Center>
       )
     }
 }
