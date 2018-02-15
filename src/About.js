@@ -68,12 +68,12 @@ class About extends Component {
 
         <h2 className="About-header">Technical How?</h2>
         <p className="cypherpunk">
-          The Technical How:
-          Automation. Modelling [compressed intelligence]. <br>
-          Dynamic mechanism design [incentives/cryptoeconomics] & implementation. <br>
-          Dynamic, rapidly deployed peripheral tooling. <br>
-          Focus on-obvious force multipliers. <br>
-          Network creation. <br>
+          The Technical How:<br />
+          Automation. Modelling [compressed intelligence]. <br />
+          Dynamic mechanism design [incentives/cryptoeconomics] & implementation. <br />
+          Dynamic, rapidly deployed peripheral tooling. <br />
+          Focus on-obvious force multipliers. <br />
+          Network creation. <br />
 
         </p>
       </div>
