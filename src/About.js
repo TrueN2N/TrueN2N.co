@@ -30,7 +30,7 @@ class About extends Component {
 
         <h2 className="About-header">Domain of focus: </h2>
         <p className="cypherpunk">
-        Current: Intersection of decentralized (dx) protocols & AI.
+        Current: Intersection of decentralized (dx) protocols & AI. <br>
         Sub-domain: Unlocking N:N value efficiency (scale, scope etc.) in n dimensions.
         This encompasses: dx Identity. Delegating dx trust. Protocol liquidity provision. 
         Future: Acting quick where nascent whitespace of inefficiency lie. (subject to change dynamically).

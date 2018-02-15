@@ -20,11 +20,12 @@ class Team extends Component {
       <div className="App-about-container">
     	<h2 className="About-header">Team</h2>
       <p className="cypherpunk">
-        N:N are rational optimists.
-        N:N welcomes any team member net-enhancing it’s fitness function. Competing or complementary. Let’s uncover synergies. 
-        We believe in mapping personal fitness function on to collective fitness function. 
-        Sole collective contract: Do what it takes to optimize the aggregate fitness function of the collective.
-        With sub-process optimization of personal fitness function improvement in relation to the domain.
+        N:N are rational optimists. <br />
+        N:N welcomes any team member net-enhancing it’s fitness function. Competing or complementary. Let’s uncover synergies. <br />
+        We believe in mapping personal fitness function on to collective fitness function. <br>
+        Sole collective contract: <br>
+        Do what you believe it takes to optimize the aggregate fitness function of the collective.
+        Sub-process: optimization of personal fitness function improvement in relation x domain.
       </p>
       </div>
     );
