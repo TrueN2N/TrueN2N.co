@@ -30,6 +30,15 @@
   padding-right: 20%;
 }
 
+.link {
+  color: blue;
+}
+
+.note {
+  font-size: 10px !important;
+  font-style: italic;
+}
+
 .action-header{
   display: inline-block;
   padding: 30px;

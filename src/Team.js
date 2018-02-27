@@ -32,7 +32,11 @@ class Team extends Component {
         <br></br>
         Sole collective contract:
         Do what you believe it takes to optimize the aggregate fitness function of the collective. 
+        <br></br>
         Joint sub-process: optimize your personal fitness function in relation to the domain.
+        <br></br>
+        <br></br>
+        We have immense gratitude toward & are proud contributors to the open source ⧫ Ethereum community.
       </p>
 
       </tt>

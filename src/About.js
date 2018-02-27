@@ -9,14 +9,14 @@ class About extends Component {
   };
 
   componentDidMount() {
-    setTimeout(() => this.setState({ loading: false }), 1500); // simulates an async action, and hides the spinner
+    setTimeout(() => this.setState({ loading: false }), 1500); 
   }
 
   render() {
     const { loading } = this.state;
 
-    if(loading) { // if your component doesn't have to wait for an async action, remove this block 
-      return null; // render null when app is not ready
+    if(loading) { 
+      return null;
     }
 
     return (
@@ -29,6 +29,13 @@ class About extends Component {
           <Center>
           <p className="mission">N:N are entrepreneurs. We write code, propagate talent + truth, & allocate [crypto]capital. </p>
           </Center>
+          <br></br>
+          <br></br>
+          <Center>
+          <p className="note">Preface: Seeking continous contradiction & non-obvious refinement to these ideas. Zero dogma. Kindly detonate these ideas with reason <a className="link" href="https://github.com/TrueN2N/TrueN2N.co/issues">here</a> ;). 
+          </p>
+          </Center>
+          <br></br>
 
           <h3 className="About-header">Domain of focus: </h3>
           <p>
@@ -40,10 +47,10 @@ class About extends Component {
           <h3 className="About-header">What is N:N?</h3>  
           <p>N:N is a trading/market ideal. 'N-sided' protocol markets. It's direct value exchange + actionable value relations between any n protocol-enabled assets. <br></br>
           <i>Familiar examples: </i><br></br>
-          &nbsp;&nbsp;Direct exchange: AAPL/USD → AAPL/ETH; iPhone/USD -> iPhone/AAPL equity <br></br>
+          &nbsp;&nbsp;Direct exchange: AAPL/USD → AAPL/ETH; iPhone/USD -> iPhone Purchase/AAPL equity <br></br>
           &nbsp;&nbsp;Derivatives: ETH/USD Futures → ETH/TokenizedUtility. ETH Call Option w/ strike price in BTC.<br></br>
           &nbsp;&nbsp;Previously illiquid, non-fungible assets: [Tokenized Land Equity]/[Tokenized Condo Equity]<br></br>
-          &nbsp;&nbsp;Direct margin/futures hedging: [Crypto-Collaterized Debt Position]/[Tokenized Dividend-Reaping Asset], [Tokenized Student Loan]/[Tokenized Identity-tied Future Income] <br></br> 
+          &nbsp;&nbsp;Direct margin/futures hedging: [Crypto-Collateralized Debt Position]/[Tokenized Dividend-Reaping Asset], &nbsp;&nbsp;[Tokenized Student Loan]/[Tokenized Identity-tied Future Income] <br></br> 
           </p>
           <br></br>
 
@@ -59,7 +66,7 @@ class About extends Component {
    
           <h3 className="About-header">What does N:N collective seek to do?</h3>
           <p>
-          Shift nascent N:N market state(s) toward meritocratic, value creation compounding efficiency. <br></br>
+          Shift nascent N:N market state(s) toward meritocratic value creation compounding efficiency. <br></br>
           We seek to build connectivity [pipes, tools, models/intelligence, UI] & capitalize on inefficency/illiquidity [arbitrage truth-deviation]. <br></br>
           <br></br>
           <i>State-transition/phase shift vectors of focus:</i> <br></br>
@@ -67,10 +74,11 @@ class About extends Component {
           &nbsp;&nbsp;{'→'} Complex & obscure n-sided protocol merit-markets manifest <br></br>
           &nbsp;&nbsp;{'→'} Application of tools & intelligence <br></br>
           &nbsp;&nbsp;{'→'} Real time truth-oriented global state changes <br></br>
-          &nbsp;&nbsp;{'→'} Accellerated compounding of value creation events <br></br>
+          &nbsp;&nbsp;{'→'} Accelerated compounding of value creation events <br></br>
           &nbsp;&nbsp;{'='} Value creation rate spikes to new equilibria trajectory. <br></br>
           <br></br>
-          Dx protocols enable global meritocracy. Meritocracy = entities have symmetric access & 'skin in the game' upside vs. downside etc. This contrasts steady-state rent seeking entities, whose dubious value will be brought to light. <br></br>
+          Dx protocols enable egalitarian meritocracy, everywhere. Meritocracy = entities have symmetric access & 'skin in the game' upside vs. downside etc. This contrasts steady-state rent seeking entities, whose dubious value will be brought to light. <br></br>
+          <br></br>
           Our supposition: we're evolving toward protocol-enabled meritocracy. And under such conditions it's dynamism & anti-fragility that confer true 1st principles value. <br></br>
           </p>
           <br></br>
@@ -96,8 +104,7 @@ class About extends Component {
 
           <h3 className="About-header">High level 'How':</h3>
           <p> 
-          Ground-up reasoning. Unlearning. (i.e iterative dynamism > static determinism). Building + supporting truth-seeking ventures. <br></br>
-          Process goals > Outcome goals. Keep identity ‘small’. Improvised, swift action.<br></br>
+          Ground-up reasoning. Unlearning (i.e iterative dynamism > static determinism). Building + supporting truth-seeking ventures. Process / Systems goals > Outcome goals. Keep identity ‘small’. Improvised, swift action.<br></br>
           </p>
           <br></br>
 

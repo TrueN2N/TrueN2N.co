@@ -25,9 +25,7 @@ class Divider extends Component {
       <Center>
         <div className="footer-block">
         <tt>
-        <p className="cypherpunk">
-        “Most predictions fail not for lack of technical understanding, but lack of nerve or failure of imagination. - Arthur Clarke”
-        </p>
+
         <br></br>
         <br></br>
 
