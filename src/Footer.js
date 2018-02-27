@@ -23,9 +23,23 @@ class Divider extends Component {
     return (
       <div>
       <Center>
-        <div className="footer-block"></div>
+        <div className="footer-block">
+        <p className="cypherpunk">
         “Most predictions fail not for lack of technical understanding, but lack of nerve or failure of imagination. - Arthur Clarke”
-        <div className="footer-block"></div>
+        </p>
+        <br></br>
+        <br></br>
+
+        <Center>brought to you with love.</Center>
+        <p className="App-intro">
+        <Center><img src={logo} className="App-logo" alt="logo" /></Center>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        
+        </p>
+        </div>
       </Center>
       </div>
     );

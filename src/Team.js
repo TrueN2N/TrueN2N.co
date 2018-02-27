@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Center from 'react-center';
+
 
 
 class Team extends Component {
@@ -18,7 +20,8 @@ class Team extends Component {
     }else{
       return (
       <div className="App-about-container">
-    	<h2 className="About-header">Team</h2>
+      <Center><h1 className="About-header"> <tt> Team </tt></h1></Center>
+
       <p>
         N:N are rational optimists.
         <br></br>
@@ -30,6 +33,7 @@ class Team extends Component {
         Do what you believe it takes to optimize the aggregate fitness function of the collective. 
         Joint sub-process: optimize your personal fitness function in relation to the domain.
       </p>
+
       </div>
     );
       

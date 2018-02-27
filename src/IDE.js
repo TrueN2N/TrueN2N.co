@@ -51,6 +51,8 @@ import "./Data.sol";
 import "./Connectivity.sol";
 
 contract Truth {
+  using Data;
+  using Connectivity;
   
   string const thesis = \`The rate of building within 
   nascent whitespace increasingly lags the rate of 
@@ -60,7 +62,7 @@ contract Truth {
   function modelEndState(_y);
   function findDeviance(_currentState, _endState);
   function evaluate(_thesis);
-  function act(_N2N);
+  function build(_N2N);
 }
 `
 

@@ -16,8 +16,6 @@ ReactDOM.render(<Loader />, document.getElementById('loader'));
 ReactDOM.render(<IDE />, document.getElementById('ide'));
 ReactDOM.render(<Action />, document.getElementById('action'));
 ReactDOM.render(<About />, document.getElementById('about'));
-ReactDOM.render(<Divider />, document.getElementById('divider'));
-ReactDOM.render(<Divider />, document.getElementById('divider'));
 ReactDOM.render(<Team />, document.getElementById('team'));
 ReactDOM.render(<Footer />, document.getElementById('footer'));
 registerServiceWorker();
