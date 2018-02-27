@@ -24,6 +24,7 @@ class Divider extends Component {
       <div>
       <Center>
         <div className="footer-block">
+        <tt>
         <p className="cypherpunk">
         “Most predictions fail not for lack of technical understanding, but lack of nerve or failure of imagination. - Arthur Clarke”
         </p>
@@ -39,6 +40,7 @@ class Divider extends Component {
         <br></br>
         
         </p>
+        </tt>
         </div>
       </Center>
       </div>

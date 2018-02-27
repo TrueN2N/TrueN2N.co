@@ -21,24 +21,24 @@ class About extends Component {
 
     return (
         <div className="App-about-container">
+        <tt>
           <Center>
           <h1 className="About-header"> <tt> About N:N </tt></h1>
           </Center>
 
           <Center>
-          <p className="cypherpunk">N:N are entrepreneurs. We write code, propagate talent + truth, & allocate [crypto]capital. </p>
-
+          <p className="mission">N:N are entrepreneurs. We write code, propagate talent + truth, & allocate [crypto]capital. </p>
           </Center>
 
           <h3 className="About-header">Domain of focus: </h3>
-          <p className="cypherpunk">
+          <p>
           Intersection of decentralized (dx) protocols & AI. <br></br>
           Sub-domain: Frictionlessly unlocking value efficiency (scale, scope etc.) in n dimensions. <br></br>
           </p>
           <br></br>
 
           <h3 className="About-header">What is N:N?</h3>  
-          <p className="cypherpunk">N:N is a trading/market ideal. 'N-sided' protocol markets. It's direct value exchange + actionable value relations between any n protocol-enabled assets. <br></br>
+          <p>N:N is a trading/market ideal. 'N-sided' protocol markets. It's direct value exchange + actionable value relations between any n protocol-enabled assets. <br></br>
           <i>Familiar examples: </i><br></br>
           &nbsp;&nbsp;Direct exchange: AAPL/USD → AAPL/ETH; iPhone/USD -> iPhone/AAPL equity <br></br>
           &nbsp;&nbsp;Derivatives: ETH/USD Futures → ETH/TokenizedUtility. ETH Call Option w/ strike price in BTC.<br></br>
@@ -48,7 +48,7 @@ class About extends Component {
           <br></br>
 
           <h3 className="About-header">N:N Specs:</h3> 
-          <p className="cypherpunk">
+          <p>
           Founded: Jan. 2018. <br></br>
           Currently: 3-4 entrepreneurs.<br></br>
           Focus: Private pre-seed & protocol markets.<br></br>
@@ -58,7 +58,7 @@ class About extends Component {
           <br></br>
    
           <h3 className="About-header">What does N:N collective seek to do?</h3>
-          <p className="cypherpunk">
+          <p>
           Shift nascent N:N market state(s) toward meritocratic, value creation compounding efficiency. <br></br>
           We seek to build connectivity [pipes, tools, models/intelligence, UI] & capitalize on inefficency/illiquidity [arbitrage truth-deviation]. <br></br>
           <br></br>
@@ -76,18 +76,18 @@ class About extends Component {
           <br></br>
 
           <h3 className="About-header">Collective?</h3>
-          <p className="cypherpunk">Free flowing group of individuals with overlapping access to resources & a shared mission to create.</p>
+          <p>Free flowing group of individuals with overlapping access to resources & a shared mission to create.</p>
           <br></br>
 
           <h3 className="About-header">Our conjecture:</h3>
-          <p className="cypherpunk">Trajectory will be primarily be determined by: <br></br>
+          <p>Trajectory will be primarily be determined by: <br></br>
           &nbsp;a. Data access/flow; Networks [hardware & wetware]. <br></br>
           &nbsp;b. Intelligence; AI<br></br>
           </p>
           <br></br>
           
           <h3 className="About-header">What is N:N building?</h3>
-          <p className="cypherpunk">Currently: N:N dx protocol tooling. Non-fungible asset networks (i.e. property registry, non-fungible private equity tokenization). AI guided, automated resource allocation over dx protocols (i.e. dynamic relaying/market making). Stablecoin debt tooling.<br></br>
+          <p>Currently: N:N dx protocol tooling. Non-fungible asset networks (i.e. property registry, non-fungible private equity tokenization). AI guided, automated resource allocation over dx protocols (i.e. dynamic relaying/market making). Stablecoin debt tooling.<br></br>
           <br></br>
           
           <tt>Note: N:N honours absolute autonomy. No one but the builders involved determine & manage endeavour-specific disclosure. Builders recieve full credit, own IP & are encouraged to build their personal brand.</tt><br></br>
@@ -95,20 +95,20 @@ class About extends Component {
           </p>
 
           <h3 className="About-header">High level 'How':</h3>
-          <p className="cypherpunk"> 
+          <p> 
           Ground-up reasoning. Unlearning. (i.e iterative dynamism > static determinism). Building + supporting truth-seeking ventures. <br></br>
           Process goals > Outcome goals. Keep identity ‘small’. Improvised, swift action.<br></br>
           </p>
           <br></br>
 
           <h3 className="About-header">Low level 'How':</h3>
-          <p className="cypherpunk">
+          <p>
              Modelling [compressed intelligence]. Dynamic, iterative automation. Dynamic, rapidly deployed peripheral tooling. Building expediantly on cutting-edge protocol improvement proposals (i.e. state channels, ERC 821, ring signatures). Dynamic mechanism design & implementation [incentives/cryptoeconomics]. Wield non-obvious force multipliers. Network creation.<br></br>
           </p> 
           <br></br>
 
           <h3 className="About-header">Why?</h3> 
-          <p className="cypherpunk">Timing. <br></br>
+          <p>Timing. <br></br>
           We’re in period of punctuated equilibrium. <br></br>
           <i> "There are decades in which nothing happens and weeks in which decades happen"-V.Lenin </i><br></br>
           Current potential impact on Global state trajectory per unit time is 
@@ -117,6 +117,8 @@ class About extends Component {
           &nbsp;<center><tt>labour {'<'} capital {'<'} fundamental dx protocols/ai {'⊆'} code </tt> {'→'} maximal trajectory-influence. </center> <br></br>
           </p>
           <br></br>
+          </tt>
+
         </div>
     );
   }

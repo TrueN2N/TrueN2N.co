@@ -20,6 +20,7 @@ class Team extends Component {
     }else{
       return (
       <div className="App-about-container">
+      <tt>
       <Center><h1 className="About-header"> <tt> Team </tt></h1></Center>
 
       <p>
@@ -34,6 +35,7 @@ class Team extends Component {
         Joint sub-process: optimize your personal fitness function in relation to the domain.
       </p>
 
+      </tt>
       </div>
     );
       
