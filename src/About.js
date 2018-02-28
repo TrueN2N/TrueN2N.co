@@ -32,7 +32,7 @@ class About extends Component {
           <br></br>
           <br></br>
           <Center>
-          <p className="note">Preface: Seeking continous contradiction & non-obvious refinement to these ideas. Zero dogma. Kindly detonate these ideas with reason <a className="link" href="https://github.com/TrueN2N/TrueN2N.co/issues">here</a> ;). 
+          <p className="note">Preface: We encourage continuous refutation & non-obvious refinement of these ideas. Zero dogma. Contribute <a className="link" href="https://github.com/TrueN2N/TrueN2N.co/issues">here</a> ;). 
           </p>
           </Center>
           <br></br>
@@ -40,17 +40,18 @@ class About extends Component {
           <h3 className="About-header">Domain of focus: </h3>
           <p>
           Intersection of decentralized (dx) protocols & AI. <br></br>
-          Sub-domain: Frictionlessly unlocking value efficiency (scale, scope etc.) in n dimensions. <br></br>
+          Sub-domain: Unlocking frictionless value efficiency (scale, scope etc.) in n dimensions. <br></br>
           </p>
           <br></br>
 
           <h3 className="About-header">What is N:N?</h3>  
-          <p>N:N is a trading/market ideal. 'N-sided' protocol markets. It's direct value exchange + actionable value relations between any n protocol-enabled assets. <br></br>
+          <p>N:N is a trading/market ideal. 'N-sided' protocol markets. <br></br>
+          It's direct value exchange + actionable value relations between any n protocol-enabled assets. <br></br>
           <i>Familiar examples: </i><br></br>
           &nbsp;&nbsp;Direct exchange: AAPL/USD → AAPL/ETH; iPhone/USD -> iPhone Purchase/AAPL equity <br></br>
           &nbsp;&nbsp;Derivatives: ETH/USD Futures → ETH/TokenizedUtility. ETH Call Option w/ strike price in BTC.<br></br>
           &nbsp;&nbsp;Previously illiquid, non-fungible assets: [Tokenized Land Equity]/[Tokenized Condo Equity]<br></br>
-          &nbsp;&nbsp;Direct margin/futures hedging: [Crypto-Collateralized Debt Position]/[Tokenized Dividend-Reaping Asset], &nbsp;&nbsp;[Tokenized Student Loan]/[Tokenized Identity-tied Future Income] <br></br> 
+          &nbsp;&nbsp;Direct margin/futures hedging: [Crypto-C.D.P.]/[Tokenized Dividend-Reaping Asset], &nbsp;&nbsp;[Tokenized Student Loan]/[Tokenized Identity-tied Future Income] <br></br> 
           </p>
           <br></br>
 
@@ -59,27 +60,33 @@ class About extends Component {
           Founded: Jan. 2018. <br></br>
           Currently: 3-4 entrepreneurs.<br></br>
           Focus: Private pre-seed & protocol markets.<br></br>
-          Where? Toronto headquarters.<br></br>
+          Where? Toronto headquartered.<br></br>
           Capital: >$3M in liquid funds. <br></br>
           </p>
           <br></br>
    
           <h3 className="About-header">What does N:N collective seek to do?</h3>
           <p>
-          Shift nascent N:N market state(s) toward meritocratic value creation compounding efficiency. <br></br>
-          We seek to build connectivity [pipes, tools, models/intelligence, UI] & capitalize on inefficency/illiquidity [arbitrage truth-deviation]. <br></br>
+          Align N:N markets with a state optimized for true value creation.
+            <br></br>
+          We seek to build connectivity [human interfaces, pipes, tools, models/intelligence] while capitalizing on inefficiency [arbitrage truth-deviation]. <br></br>
           <br></br>
           <i>State-transition/phase shift vectors of focus:</i> <br></br>
-          &nbsp;&nbsp;Fundamental elements of society rearchitected natively digital (money, identify, agreements, certificates, reputation etc.) <br></br>
-          &nbsp;&nbsp;{'→'} Complex & obscure n-sided protocol merit-markets manifest <br></br>
-          &nbsp;&nbsp;{'→'} Application of tools & intelligence <br></br>
-          &nbsp;&nbsp;{'→'} Real time truth-oriented global state changes <br></br>
-          &nbsp;&nbsp;{'→'} Accelerated compounding of value creation events <br></br>
-          &nbsp;&nbsp;{'='} Value creation rate spikes to new equilibria trajectory. <br></br>
+          &nbsp;&nbsp;{'→'} Fundamental elements of society rearchitected natively digital (money, assets, identity, agreements, certificates, reputation etc.) <br></br>
+          &nbsp;&nbsp;{'→'} N-sided dx protocol merit-markets emerge using these elements. <br></br>
+          &nbsp;&nbsp;{'→'} Unpermissioned tools & intelligence applied. <br></br>
+          &nbsp;&nbsp;{'→'} Real time truth-oriented global state changes. <br></br>
+          &nbsp;&nbsp;{'→'} Rate of value creation events accelerate; compounding accelerates. <br></br>
+          &nbsp;&nbsp;{'→'} Value creation paradigm overhaul. New equilibria trajectory. <br></br>
           <br></br>
-          Dx protocols enable egalitarian meritocracy, everywhere. Meritocracy = entities have symmetric access & 'skin in the game' upside vs. downside etc. This contrasts steady-state rent seeking entities, whose dubious value will be brought to light. <br></br>
+           <br></br>
           <br></br>
-          Our supposition: we're evolving toward protocol-enabled meritocracy. And under such conditions it's dynamism & anti-fragility that confer true 1st principles value. <br></br>
+          Our supposition: <br></br> 
+    
+          Dx protocols enable egalitarian meritocracy, everywhere. Unpermissioned & censorship-resistant. We're obliquely evolving toward this state. And the forward looking reality: it's a state where the emergent phenomena is inconceivable. <br></br> 
+    
+          In such conditions it's foundational dynamism & anti-fragility that confer true 1st principles value. <br></br>
+          
           </p>
           <br></br>
 
@@ -95,16 +102,16 @@ class About extends Component {
           <br></br>
           
           <h3 className="About-header">What is N:N building?</h3>
-          <p>Currently: N:N dx protocol tooling. Non-fungible asset networks (i.e. property registry, non-fungible private equity tokenization). AI guided, automated resource allocation over dx protocols (i.e. dynamic relaying/market making). Stablecoin debt tooling.<br></br>
+          <p>Currently: N:N dx protocol tooling. Non-fungible asset networks (i.e. property registry, non-fungible private equity tokenization). AI guided, automated resource allocation over dx protocols (i.e. dynamic relaying/market making). Stablecoin debt tooling. Free-media curation.<br></br>
           <br></br>
           
-          <tt>Note: N:N honours absolute autonomy. No one but the builders involved determine & manage endeavour-specific disclosure. Builders recieve full credit, own IP & are encouraged to build their personal brand.</tt><br></br>
+          <tt>Note: N:N safeguards absolute builder autonomy. No one but the builders involved determine & manage endeavour-specific disclosure.</tt><br></br>
           <br></br>
           </p>
 
           <h3 className="About-header">High level 'How':</h3>
           <p> 
-          Ground-up reasoning. Unlearning (i.e iterative dynamism > static determinism). Building + supporting truth-seeking ventures. Process / Systems goals > Outcome goals. Keep identity ‘small’. Improvised, swift action.<br></br>
+          Ground-up reasoning. Unlearning (i.e iterative dynamism > static determinism). Systems goals > Outcome goals. Keep identity ‘small’. Improvised, swift action. Building + supporting truth-seeking ventures. Open source reciprocity.<br></br>
           </p>
           <br></br>
 
@@ -118,9 +125,8 @@ class About extends Component {
           <p>Timing. <br></br>
           We’re in period of punctuated equilibrium. <br></br>
           <i> "There are decades in which nothing happens and weeks in which decades happen"-V.Lenin </i><br></br>
-          Current potential impact on Global state trajectory per unit time is 
-          [arguably] at a local maximum. <br></br>
-          At peak actionability, we're employing force-weighted multipliers/leverage, namely: <br></br>
+          Current 'potential impact on Global state trajectory per unit time' is [arguably] at a local maximum. <br></br>
+          We're maximizing impact by employing force multipliers/leverage, namely: <br></br>
           &nbsp;<center><tt>labour {'<'} capital {'<'} fundamental dx protocols/ai {'⊆'} code </tt> {'→'} maximal trajectory-influence. </center> <br></br>
           </p>
           <br></br>
