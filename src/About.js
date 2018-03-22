@@ -117,7 +117,7 @@ class About extends Component {
 
           <h3 className="About-header">Low level 'How':</h3>
           <p>
-             Modelling [compressed intelligence]. Dynamic, iterative automation. Dynamic, rapidly deployed peripheral tooling. Building expediantly on cutting-edge protocol improvement proposals (i.e. state channels, ERC 821, ring signatures). Dynamic mechanism design & implementation [incentives/cryptoeconomics]. Wield non-obvious force multipliers. Network creation.<br></br>
+             Modelling [compressed intelligence]. Dynamic, iterative automation. Dynamic, rapidly deployed peripheral tooling. Building expediantly on cutting-edge protocol improvement proposals (i.e. state channels, ERC 721, ring signatures). Dynamic mechanism design & implementation [incentives/cryptoeconomics]. Wield non-obvious force multipliers. Network creation.<br></br>
           </p> 
           <br></br>
 
