@@ -53,7 +53,6 @@ class About extends Component {
           Currently: 3-4 entrepreneurs.<br></br>
           Focus: Private pre-seed & protocol markets.<br></br>
           Where? Toronto headquarters.<br></br>
-          Capital: >$3M in liquid funds. <br></br>
           </p>
           <br></br>
    
