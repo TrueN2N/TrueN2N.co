@@ -9,20 +9,34 @@
 
 .footer-block{
   height: 150px;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.mission {
+  font-size: 18px !important;
+  text-align: center !important;
 }
 
 .cypherpunk {
-  font-family: 'Consolas';
+  /*font-family: 'Consolas';*/
   color: white;
 }
 
 .App-about-container {
   padding: 40px;
   padding-top: 0px;
-  padding-left: 300px;
-  padding-right: 300px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.link {
+  color: blue;
+}
+
+.note {
+  font-size: 10px !important;
+  font-style: italic;
 }
 
 .action-header{
@@ -34,7 +48,6 @@
 }
 
 .About-header{
-  font-family: 'Consolas';
   color: white;
 }
 

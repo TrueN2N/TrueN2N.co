@@ -20,20 +20,22 @@ class Team extends Component {
     }else{
       return (
       <div className="App-about-container">
+      <tt>
       <Center><h1 className="About-header"> <tt> Team </tt></h1></Center>
 
       <p>
-        N:N are rational optimists.
-        <br></br>
-        N:N welcomes any team member net-enhancing it’s fitness function. Competing or complementary. Let’s uncover synergies. 
-        <br></br>
-        We believe in mapping personal fitness functions on to collective fitness function. 
+        N:N welcomes any team member net-enhancing the fitness function. Competing or complementary. Coalesce, evolve, fork, exit. 
         <br></br>
         Sole collective contract:
         Do what you believe it takes to optimize the aggregate fitness function of the collective. 
-        Joint sub-process: optimize your personal fitness function in relation to the domain.
+        <br></br>
+        Sub-process: challenge, enhance, lead, deviate, document. As saught: signal your personal fitness function(s) & reputation.
+        <br></br>
+        <br></br>
+        We have immense gratitude toward & are proud contributors to the open source ⧫ Ethereum community.
       </p>
 
+      </tt>
       </div>
     );
       
